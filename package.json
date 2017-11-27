@@ -1,6 +1,6 @@
 {
     "id": "outlook",
-    "name": "outlookwebapp",
+    "name": "Outlook",
     "version": "1.0.0",
     "description": "Outlook Web App",
     "main": "index.js",
